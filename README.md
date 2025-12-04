@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://avatars.mds.yandex.net/i?id=ff0ecc23a630c90c4ca75fcda74e99696061b1e2-4146177-images-thumbs&n=13" width="200"><br>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/1c/f1/481cf154-4a16-9515-c616-6cebe9a919fc/PDF_Reader_Pro_Edition-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/pdf-reader-pro">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
